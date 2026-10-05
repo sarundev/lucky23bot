@@ -1,0 +1,6 @@
+2026-09-12 00:37:22,809 | INFO     | promo-bot | Polling for updates… (Ctrl-C to stop)
+2026-09-12 00:37:27,383 | INFO     | promo-bot | Running as @BallKH369bot (id 8803743806)
+2026-09-12 00:37:27,612 | INFO     | apscheduler.scheduler | Scheduler started
+2026-09-12 00:37:27,613 | INFO     | telegram.ext.Application | Application started
+2026-09-12 00:37:28,506 | INFO     | promo-bot | /start from 5051610805 (ចាន់ សារុន)
+2026-09-12 00:37:57,994 | INFO     | promo-bot | /start from 7764395330 (Bong Chea.)
